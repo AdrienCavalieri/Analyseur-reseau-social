@@ -12,4 +12,4 @@
 
 ## Crédits
 
-Projet réalisé par Antony Fourchault et Adrien Cavalieri.
+Projet réalisé par [Antony Fourchault](https://github.com/shitori) et [Adrien Cavalieri](https://github.com/AdrienCavalieri).
